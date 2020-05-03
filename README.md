@@ -1,4 +1,4 @@
-# My Calendar
+# Event Scheduler and Calendar App
 Simple event calendar, with agenda view.
 
 ## Requirements
